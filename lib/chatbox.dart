@@ -1,12 +1,12 @@
-import 'package:flutter/material.dart';
+// import 'package:flutter/material.dart';
 
-class Chat extends StatelessWidget {
-  const Chat({super.key});
+// class Chat extends StatelessWidget {
+//   const Chat({super.key});
 
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(title: Text("Chats"),backgroundColor: Colors.cyan,),
-    );
-  }
-}
+//   @override
+//   Widget build(BuildContext context) {
+//     return Scaffold(
+//       appBar: AppBar(title: Text("Chats"),backgroundColor: Colors.cyan,),
+//     );
+//   }
+// }
